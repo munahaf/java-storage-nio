@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.127.4](https://github.com/googleapis/java-storage-nio/compare/v0.127.3...v0.127.4) (2023-09-18)
+
+
+### Dependencies
+
+* Update dependency com.google.apis:google-api-services-storage to v1-rev20230914-2.0.0 ([#1254](https://github.com/googleapis/java-storage-nio/issues/1254)) ([efe45f0](https://github.com/googleapis/java-storage-nio/commit/efe45f029dcbf318f36f5681ad10935bfcdc2808))
+
 ## [0.127.3](https://github.com/googleapis/java-storage-nio/compare/v0.127.2...v0.127.3) (2023-09-13)
 
 
